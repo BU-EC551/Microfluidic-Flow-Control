@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN Y9 [get_ports clk]
+set_property PACKAGE_PIN Y11 [get_ports PWM]
+set_property PACKAGE_PIN P16 [get_ports rst]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports PWM]
+set_property IOSTANDARD LVCMOS33 [get_ports rst]
